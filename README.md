@@ -4,7 +4,7 @@
 - ctf player
 ## >cd projects_
 - SQLight - priv8 lightweight automatic SQL injection tool
-- SMHess - SMS sending network using a raspberry pi & a SIM800 module
+- SMHess - SMS sending network using an arduino & a SIM800 module
 <br />
 <br />
 <p align="center">
