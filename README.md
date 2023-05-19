@@ -5,7 +5,6 @@
 ## >cd projects_
 - SQLight - priv8 lightweight automatic SQL injection tool
 - SMHess - SMS sending network using a raspberry pi & a SIM800 module
-- SMTP Mailer - simple script to send mails in bulk using an SMTP server
 <br />
 <br />
 <p align="center">
