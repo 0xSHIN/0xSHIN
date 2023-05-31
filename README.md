@@ -6,8 +6,6 @@
 - SQLight - priv8 lightweight automatic SQL injection tool
 <br />
 <br />
-<p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhon4amn008708mm8z1uam2c/stats?cursusId=21&coalitionId=46" alt="alyildiz's 42 stats" /></a></p>
 
 ---
 
