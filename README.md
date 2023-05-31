@@ -5,7 +5,6 @@
 ## >cd projects_
 - SQLight - priv8 lightweight automatic SQL injection tool
 <br />
-<br />
 
 ---
 
