@@ -2,6 +2,7 @@
 - developer
 - student
 - ctf player
+- lifelong learner
 ## >cd projects_
 - SQLight - priv8 lightweight automatic SQL injection tool
 <br />
