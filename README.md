@@ -14,7 +14,7 @@
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/d7d165ff-8a70-4908-a8fa-1dec87502418)
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/b999f9df-19a0-46b8-a580-cfe477fdedd9)
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/426e0c2c-0778-4aa4-903a-c5be6626620b)
-## >cd known_technologies_
+## >cd tools_and_technologies_
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/f669c931-586f-4a26-ad53-30a71e1d796d)
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/ba7f0337-b889-4697-bf25-abf4e84ed4a6)
 ![image](https://github.com/0xSHIN/0xSHIN/assets/126964670/0d4f3fa9-59a1-4e13-89f5-8dc76f04e13a)
